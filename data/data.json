@@ -1,0 +1,38 @@
+[
+    {
+        "id": "remera",
+        "titulo": "Remera",
+        "precio": 1500,
+        "img": "./img/remera.jpeg"
+    },
+    {
+        "id": "campera",
+        "titulo": "Chaqueta",
+        "precio": 2500,
+        "img": "./img/campera.jpeg"
+    },
+    {
+        "id": "championes",
+        "titulo": "Zapatillas",
+        "precio": 3000,
+        "img": "./img/zapa.jpeg"
+    },
+    {
+        "id": "mochila",
+        "titulo": "Mochila",
+        "precio": 1900,
+        "img": "./img/mochila.jpeg"
+    },
+    {
+        "id": "auriculares",
+        "titulo": "Auriculares",
+        "precio": 3400,
+        "img": "./img/auriculares1.jpeg"
+    },
+    {
+        "id": "reloj",
+        "titulo": "Reloj",
+        "precio": 2000,
+        "img": "./img/reloj.jpeg"
+    }
+]
